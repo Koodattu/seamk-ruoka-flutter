@@ -7,7 +7,7 @@
     <br />
 </div>
 
-## Project description
+## Description
 
 A cross-platform mobile lunch menu application for Seinäjoki University of Applied Sciences students. 
 Made with Flutter and written in Dart.
@@ -18,7 +18,7 @@ Made with Flutter and written in Dart.
 - Menu is parsed as JSON
 - Possible to view history and upcoming weeks
 
-## Tech used
+## Tech
 
 The application fetches Sodexo lunch menu data in json format from Sodexo's public API for different Sodexo student restaurants.
 
